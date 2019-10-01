@@ -1,6 +1,6 @@
 # Chatpal: A Chat Pal
 ## Mission:
-Teenagers would enjoy a personal companion tuned to their humor style, slang, and personality
+A Chatbot that develops a personality and adopts a user's humor style and slang
 
 ## Goals:
 ### Phase 1 (Entertainment):
